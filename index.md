@@ -5,6 +5,12 @@ _Software Development Engineer in Test at Mekari based in Jakarta, Indonesia_ <b
 [Email](mailto:irwansyarifudin16@gmail.com) / [Website](https://irwanhub2016.github.io/) / [LinkedIn](https://www.linkedin.com/in/irwan-syarifudin-331511120/) / [GitHub](https://github.com/irwanhub2016/)
 
 ## 🏼‍💻 Technical Experience
+**Frontend Engineer** @ [BRYTER](https://bryter.io/) _(Dec 2020 - Present)_ <br>
+No-code platform that enables professionals to build interactive applications.
+  - Implementing features that improve the UI and accessibility of the integrations platform
+  - Extending a company-wide design system
+  - **_Technologies used:_** Vue, TypeScript, Jest, Testing Library, HTML, CSS, Sass, Web Components (LitElement).
+<br><br>
 
 **SDET** @ [JURNAL TEAM](https://my.jurnal.id) _(NOV 2020 - Present)_ <br>
 	- Create and maintain automation test using Site prism Ruby and Cucumber
