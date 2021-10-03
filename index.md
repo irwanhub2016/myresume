@@ -6,27 +6,26 @@ _Software Development Engineer in Test at Mekari based in Jakarta, Indonesia_ <b
 
 ## 🏼‍💻 Technical Experience
 **Frontend Engineer** @ [BRYTER](https://bryter.io/) _(Dec 2020 - Present)_ <br>
-No-code platform that enables professionals to build interactive applications.
   - Implementing features that improve the UI and accessibility of the integrations platform
   - Extending a company-wide design system
   - **_Technologies used:_** Vue, TypeScript, Jest, Testing Library, HTML, CSS, Sass, Web Components (LitElement).
 <br><br>
 
 **SDET** @ [JURNAL TEAM](https://my.jurnal.id) _(NOV 2020 - Present)_ <br>
-	- Create and maintain automation test using Site prism Ruby and Cucumber
-	- Running schedule automation on Jenkins pipeline
-	- Explore and testing Mobile Apps with POM Ruby and Appium
-	- Playing around with Newman for CI/CD API
-	- Implementation stress test with Jmeter
-	- Take part as code reviewer to developer
+  - Create and maintain automation test using Site prism Ruby and Cucumber
+  - Running schedule automation on Jenkins pipeline
+  - Explore and testing Mobile Apps with POM Ruby and Appium
+  - Playing around with Newman for CI/CD API
+  - Implementation stress test with Jmeter
+  - Take part as code reviewer to developer
 <!--   - **_Technologies used:_** Vue, TypeScript, Jest, Testing Library, HTML, CSS, Sass, Web Components (LitElement). -->
 <br><br>
 
 **QA MANUAL** @ [JURNAL TEAM](https://my.jurnal.id) _(AUG 2019 - NOV 2020)_ <br>
-	- Writing the clean testcases
-	- Approach method testing in work to continuos testing
-	- Make a strategy test in team scope
-	- Be multiple part as advocate, diplomate, detective, analyst in teamwork
+  - Writing the clean testcases
+  - Approach method testing in work to continuos testing
+  - Make a strategy test in team scope
+  - Be multiple part as advocate, diplomate, detective, analyst in teamwork
 <br><br>
 
 <!-- **Google Season of Docs 2020 | Technical Writer** @ [GraphQL Foundation](https://foundation.graphql.org/) _(Aug 2020 - Jan 2021)_ <br>
