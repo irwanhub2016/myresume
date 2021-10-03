@@ -2,7 +2,7 @@
 
 _Software Development Engineer in Test at Mekari based in Jakarta, Indonesia_ <br>
 
-[Email](mailto:irwansyarifudin16@gmail.com) / [Website](https://irwanhub2016.github.io/) / [LinkedIn](https://www.linkedin.com/in/irwan-syarifudin-331511120/) / [GitHub](https://github.com/irwanhub2016/)
+[Email](mailto:irwansyarifudin16@gmail.com) / [Website](https://irwanhub2016.github.io/) / [Medium](https://irwansyarifudin16.medium.com/) / [LinkedIn](https://www.linkedin.com/in/irwan-syarifudin-331511120/) / [GitHub](https://github.com/irwanhub2016/)
 
 ## 🏼‍💻 Technical Experience
 **Frontend Engineer** @ [BRYTER](https://bryter.io/) _(Dec 2020 - Present)_ <br>
@@ -26,7 +26,7 @@ _Software Development Engineer in Test at Mekari based in Jakarta, Indonesia_ <b
   - Approach method testing in work to continuos testing
   - Make a strategy test in team scope
   - Be multiple part as advocate, diplomate, detective, analyst in teamwork
-<br><br>
+<br>
 
 <!-- **Google Season of Docs 2020 | Technical Writer** @ [GraphQL Foundation](https://foundation.graphql.org/) _(Aug 2020 - Jan 2021)_ <br>
 [Google Season of Docs](https://developers.google.com/season-of-docs/docs/participants) is a program matching experienced technical writers with open source organizations.
