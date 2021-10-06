@@ -4,23 +4,23 @@ _Software Development Engineer in Test at Mekari based in Jakarta, Indonesia_ <b
 
 [Email](mailto:irwansyarifudin16@gmail.com) / [Website](https://irwanhub2016.github.io/) / [LinkedIn](https://www.linkedin.com/in/irwan-syarifudin-331511120/) / [GitHub](https://github.com/irwanhub2016/)
 
-## 🏼‍💻 Technical Experience
+## 💻 Working Experience
 
 **SDET** @ [JURNAL TEAM](https://my.jurnal.id) _(NOV 2020 - Present)_ <br>
-	- Create and maintain automation test using Site prism Ruby and Cucumber
-	- Running schedule automation on Jenkins pipeline
-	- Explore and testing Mobile Apps with POM Ruby and Appium
-	- Playing around with Newman for CI/CD API
-	- Implementation stress test with Jmeter
-	- Take part as code reviewer to developer
+ - Create and maintain automation test using Site prism Ruby and Cucumber
+ - Running schedule automation on Jenkins pipeline
+ - Explore and testing Mobile Apps with POM Ruby and Appium
+ - Playing around with Newman for CI/CD API
+ - Implementation stress test with Jmeter
+ - Take part as code reviewer to developer
 <!--   - **_Technologies used:_** Vue, TypeScript, Jest, Testing Library, HTML, CSS, Sass, Web Components (LitElement). -->
 <br><br>
 
 **QA MANUAL** @ [JURNAL TEAM](https://my.jurnal.id) _(AUG 2019 - NOV 2020)_ <br>
-	- Writing the clean testcases
-	- Approach method testing in work to continuos testing
-	- Make a strategy test in team scope
-	- Be multiple part as advocate, diplomate, detective, analyst in teamwork
+ - Writing the clean testcases
+ - Approach method testing in work to continuos testing
+ - Make a strategy test in team scope
+ - Be multiple part as advocate, diplomate, detective, analyst in teamwork
 <br><br>
 
 <!-- **Google Season of Docs 2020 | Technical Writer** @ [GraphQL Foundation](https://foundation.graphql.org/) _(Aug 2020 - Jan 2021)_ <br>
@@ -61,10 +61,28 @@ Named one of the Top 500 authors in 2019. Also wrote two articles that ranked in
 Created [Qarma](https://github.com/lcorr8/qarma), an online platform to report and retrieve lost & found objects for travelers abroad.
 <br><br> -->
 
+## ⚙️ Technical Skills
+
+**DevOps** <br>
+ - Create and maintain automation test using Site prism Ruby and Cucumber
+ - Running schedule automation on Jenkins pipeline
+
+**Programming** <br>
+ - Create and maintain automation test using Site prism Ruby and Cucumber
+ - Running schedule automation on Jenkins pipeline
+
+**Performance Testing** <br>
+ - Create and maintain automation test using Site prism Ruby and Cucumber
+ - Running schedule automation on Jenkins pipeline
+
+**Database** <br>
+ - Create and maintain automation test using Site prism Ruby and Cucumber
+ - Running schedule automation on Jenkins pipeline
+
 ## 💬 Languages
 
 **English**: Intermediate <br>
-**English**: Advanced
+**Bahasa**: Advanced
 <br><br>
 
 ## 👩🏼‍🎓 Education
