@@ -11,9 +11,9 @@ _Software Development Engineer in Test at Mekari based in Jakarta, Indonesia_ <b
  - Running schedule automation on Jenkins pipeline
  - Explore and testing Mobile Apps with POM Ruby and Appium
  - Playing around with Newman for CI/CD API
- - Implementation stress test with Jmeter
- - Take part as code reviewer to developer
-<!--   - **_Technologies used:_** Vue, TypeScript, Jest, Testing Library, HTML, CSS, Sass, Web Components (LitElement). -->
+ - Implementation load and stress test using Jmeter 
+ - Take part as code reviewer to Automation Testing PR
+
 <br><br>
 
 **QA MANUAL** @ [JURNAL TEAM](https://my.jurnal.id) _(AUG 2019 - NOV 2020)_ <br>
@@ -63,21 +63,30 @@ Created [Qarma](https://github.com/lcorr8/qarma), an online platform to report a
 
 ## ⚙️ Technical Skills
 
+**Automation Testing Tools** <br>
+ - Cucumber
+ - SitePrism
+ - Robot Framework
+ - Selenium
+ - Appom
+
 **DevOps** <br>
- - Create and maintain automation test using Site prism Ruby and Cucumber
- - Running schedule automation on Jenkins pipeline
+ - Jenkins
+ - Docker
+ - Linux
+ - Bash Script
 
 **Programming** <br>
- - Create and maintain automation test using Site prism Ruby and Cucumber
- - Running schedule automation on Jenkins pipeline
+ - Ruby
+ - Python
+ - C
 
 **Performance Testing** <br>
- - Create and maintain automation test using Site prism Ruby and Cucumber
- - Running schedule automation on Jenkins pipeline
+ - Jmeter
+ - Locust
 
 **Database** <br>
- - Create and maintain automation test using Site prism Ruby and Cucumber
- - Running schedule automation on Jenkins pipeline
+ - SQL
 
 ## 💬 Languages
 
