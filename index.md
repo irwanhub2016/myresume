@@ -14,7 +14,7 @@ _Software Development Engineer in Test at Mekari based in Jakarta, Indonesia_ <b
  - Implementation load and stress test using Jmeter 
  - Take part as code reviewer to Automation Testing PR
 
-<br><br>
+<br>
 
 **QA MANUAL** @ [JURNAL TEAM](https://my.jurnal.id) _(AUG 2019 - NOV 2020)_ <br>
   - Writing the clean testcases
