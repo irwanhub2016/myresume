@@ -2,6 +2,8 @@
 
 _Software Development Engineer in Test at Mekari based in Jakarta, Indonesia_ <br>
 
+<a href="https://app.daily.dev/irwans24"><img src="https://api.daily.dev/devcards/758ed240eb544525a94de5d5c892d697.png?r=20g" width="100" alt="Irwan Syarifudin's Dev Card"/></a>
+
 [Email](mailto:irwansyarifudin16@gmail.com) / [Website](https://irwanhub2016.github.io/) / [Medium](https://irwansyarifudin16.medium.com/) / [LinkedIn](https://www.linkedin.com/in/irwan-syarifudin-331511120/) / [GitHub](https://github.com/irwanhub2016/)
 
 ## 💻 Working Experience
